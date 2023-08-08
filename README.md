@@ -47,4 +47,4 @@ the face f using F_PROFILE and assigns it to emissivity.
 It ends
 the face loop.
 
-The UDF can be used to model heat transfer problems with solar collectors, such as solar water heating, solar desalination, or solar cooling systems. 
+The UDF can be used to model heat transfer problems with solar collectors, such as solar water heating, solar desalination, or solar cooling systems.
